@@ -1,6 +1,0 @@
-file,function_or_class,label
-sample1.py,used_function,used
-sample1.py,unused_function,unused
-sample2.py,MyClass,used
-sample2.py,method_used,used
-sample2.py,method_unused,unused

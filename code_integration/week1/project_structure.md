@@ -1,9 +1,6 @@
 # 🧩 Project Structure (Week 1 – Integration Setup)
 
-## Overview
-Member 3 is responsible for integrating outputs from:
-- Member 1 → Dead Code Detection (ML)
-- Member 2 → Taint Analysis (ML)
+
 
 ### Current Week Goal
 - Create skeleton pipeline to merge results.
@@ -12,15 +9,14 @@ Member 3 is responsible for integrating outputs from:
 
 ## Directory Treproject_root/
 │
-├── member1_dead_code_detection/
-├── member2_taint_analysis/
-└── member3_integration/
-└── week1_oct8_11/
+├── dead_code_detection/
+├── taint_analysis/
+└── integration/
+└── week1/
 ├── main.py
 ├── mock_data.json
 ├── llm_prompt_test.py
 └── project_structure.md
-
 
 ### Next Steps
 - In Week 2, integrate live ML outputs.
