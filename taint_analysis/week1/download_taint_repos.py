@@ -6,7 +6,7 @@ taint-related code (user input → sensitive operations).
 import os
 from git import Repo
 
-PROJECT_ROOT = r"C:\Users\lahar\OneDrive\Desktop\Python\TOAC\DeadCodeTaintAnalysis"
+PROJECT_ROOT = r"C:\Users\outhd\OneDrive\toac\DeadCodeTaintAnalysis"
 DEST_DIR = os.path.join(PROJECT_ROOT, "taint_analysis", "week1", "dataset", "github_repos")
 LABELS_PATH = os.path.join(PROJECT_ROOT, "taint_analysis", "week1", "labels.csv")
 
