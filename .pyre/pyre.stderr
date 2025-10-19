@@ -1,0 +1,4 @@
+2025-10-17 01:03:56,485 [PID 34444] INFO No binary specified, looking for `pyre.bin` in PATH
+2025-10-17 01:03:56,490 [PID 34444] ERROR Invalid configuration: Cannot locate a Pyre binary to run.
+2025-10-17 01:16:34,837 [PID 34680] INFO No binary specified, looking for `pyre.bin` in PATH
+2025-10-17 01:16:34,843 [PID 34680] ERROR Invalid configuration: Cannot locate a Pyre binary to run.

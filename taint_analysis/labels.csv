@@ -1,0 +1,2 @@
+file,source_function,sink_function,label
+# Example: app.py,input,os.system,tainted

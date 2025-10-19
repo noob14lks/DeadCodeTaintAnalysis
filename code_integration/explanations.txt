@@ -1,0 +1,1087 @@
+FILE: github_repos\fastapi\docs_src\cookie_param_models\tutorial002_pv1.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\cookie_param_models\tutorial002_pv1.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\cookie_param_models\tutorial002_pv1_an.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\cookie_param_models\tutorial002_pv1_an.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\cookie_param_models\tutorial002_pv1_an_py310.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\cookie_param_models\tutorial002_pv1_an_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\cookie_param_models\tutorial002_pv1_an_py39.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\cookie_param_models\tutorial002_pv1_an_py39.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\cookie_param_models\tutorial002_pv1_py310.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\cookie_param_models\tutorial002_pv1_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dataclasses\tutorial001.py
+ISSUE: Dead / Unused function `Item` (status: unused)
+RISK: Low
+WHY:
+  - The function `Item` is not referenced or called within `github_repos\fastapi\docs_src\dataclasses\tutorial001.py` (labeled unused). The function name and body suggest this may be a placeholder or debug helper (e.g., short name or 'unused' prefix).
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dataclasses\tutorial002.py
+ISSUE: Dead / Unused function `Item` (status: unused)
+RISK: Low
+WHY:
+  - The function `Item` is not referenced or called within `github_repos\fastapi\docs_src\dataclasses\tutorial002.py` (labeled unused). The function name and body suggest this may be a placeholder or debug helper (e.g., short name or 'unused' prefix).
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dataclasses\tutorial003.py
+ISSUE: Dead / Unused function `Item` (status: unused)
+RISK: Low
+WHY:
+  - The function `Item` is not referenced or called within `github_repos\fastapi\docs_src\dataclasses\tutorial003.py` (labeled unused). The function name and body suggest this may be a placeholder or debug helper (e.g., short name or 'unused' prefix).
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dataclasses\tutorial003.py
+ISSUE: Dead / Unused function `Author` (status: unused)
+RISK: Low
+WHY:
+  - The function `Author` is not referenced or called within `github_repos\fastapi\docs_src\dataclasses\tutorial003.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial002.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial002.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial002_an.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial002_an.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial002_an_py310.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial002_an_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial002_an_py39.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial002_an_py39.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial002_py310.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial002_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial003.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial003.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial003_an.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial003_an.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial003_an_py310.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial003_an_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial003_an_py39.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial003_an_py39.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial003_py310.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial003_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial004.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial004.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial004_an.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial004_an.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial004_an_py310.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial004_an_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial004_an_py39.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial004_an_py39.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\dependencies\tutorial004_py310.py
+ISSUE: Dead / Unused function `CommonQueryParams` (status: unused)
+RISK: Low
+WHY:
+  - The function `CommonQueryParams` is not referenced or called within `github_repos\fastapi\docs_src\dependencies\tutorial004_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\graphql\tutorial001.py
+ISSUE: Dead / Unused function `Query` (status: unused)
+RISK: Low
+WHY:
+  - The function `Query` is not referenced or called within `github_repos\fastapi\docs_src\graphql\tutorial001.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1_an.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1_an.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1_an_py310.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1_an_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1_an_py39.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1_an_py39.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1_py310.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1_py39.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\header_param_models\tutorial002_pv1_py39.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\python_types\tutorial010.py
+ISSUE: Dead / Unused function `Person` (status: unused)
+RISK: Low
+WHY:
+  - The function `Person` is not referenced or called within `github_repos\fastapi\docs_src\python_types\tutorial010.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1_an.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1_an.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1_an_py310.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1_an_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1_an_py39.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1_an_py39.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1_py310.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1_py39.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\query_param_models\tutorial002_pv1_py39.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\request_form_models\tutorial002_pv1.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\request_form_models\tutorial002_pv1.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\request_form_models\tutorial002_pv1_an.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\request_form_models\tutorial002_pv1_an.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\request_form_models\tutorial002_pv1_an_py39.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\request_form_models\tutorial002_pv1_an_py39.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\schema_extra_example\tutorial001_pv1.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\schema_extra_example\tutorial001_pv1.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\schema_extra_example\tutorial001_pv1_py310.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\schema_extra_example\tutorial001_pv1_py310.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\settings\app03\config.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\settings\app03\config.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\settings\app03_an\config_pv1.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\settings\app03_an\config_pv1.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\docs_src\settings\app03_an_py39\config.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\docs_src\settings\app03_an_py39\config.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\params.py
+ISSUE: Dead / Unused function `Depends` (status: unused)
+RISK: Low
+WHY:
+  - The function `Depends` is not referenced or called within `github_repos\fastapi\fastapi\params.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\_compat.py
+ISSUE: Dead / Unused function `BaseConfig` (status: unused)
+RISK: Low
+WHY:
+  - The function `BaseConfig` is not referenced or called within `github_repos\fastapi\fastapi\_compat.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\_compat.py
+ISSUE: Dead / Unused function `GenerateJsonSchema` (status: unused)
+RISK: Low
+WHY:
+  - The function `GenerateJsonSchema` is not referenced or called within `github_repos\fastapi\fastapi\_compat.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\dependencies\models.py
+ISSUE: Dead / Unused function `SecurityRequirement` (status: unused)
+RISK: Low
+WHY:
+  - The function `SecurityRequirement` is not referenced or called within `github_repos\fastapi\fastapi\dependencies\models.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\dependencies\models.py
+ISSUE: Dead / Unused function `Dependant` (status: unused)
+RISK: Low
+WHY:
+  - The function `Dependant` is not referenced or called within `github_repos\fastapi\fastapi\dependencies\models.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\middleware\asyncexitstack.py
+ISSUE: Dead / Unused function `AsyncExitStackMiddleware` (status: unused)
+RISK: Low
+WHY:
+  - The function `AsyncExitStackMiddleware` is not referenced or called within `github_repos\fastapi\fastapi\middleware\asyncexitstack.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\openapi\models.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\fastapi\openapi\models.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\openapi\models.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\fastapi\openapi\models.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\security\base.py
+ISSUE: Dead / Unused function `SecurityBase` (status: unused)
+RISK: Low
+WHY:
+  - The function `SecurityBase` is not referenced or called within `github_repos\fastapi\fastapi\security\base.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\security\oauth2.py
+ISSUE: Dead / Unused function `OAuth2PasswordRequestForm` (status: unused)
+RISK: Low
+WHY:
+  - The function `OAuth2PasswordRequestForm` is not referenced or called within `github_repos\fastapi\fastapi\security\oauth2.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\fastapi\security\oauth2.py
+ISSUE: Dead / Unused function `SecurityScopes` (status: unused)
+RISK: Low
+WHY:
+  - The function `SecurityScopes` is not referenced or called within `github_repos\fastapi\fastapi\security\oauth2.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_additional_properties_bool.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_additional_properties_bool.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_custom_middleware_exception.py
+ISSUE: Dead / Unused function `ContentSizeLimitMiddleware` (status: unused)
+RISK: Low
+WHY:
+  - The function `ContentSizeLimitMiddleware` is not referenced or called within `github_repos\fastapi\tests\test_custom_middleware_exception.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_custom_schema_fields.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_custom_schema_fields.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_datetime_custom_encoder.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_datetime_custom_encoder.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_generic_parameterless_depends.py
+ISSUE: Dead / Unused function `A` (status: unused)
+RISK: Low
+WHY:
+  - The function `A` is not referenced or called within `github_repos\fastapi\tests\test_generic_parameterless_depends.py` (labeled unused). The function name and body suggest this may be a placeholder or debug helper (e.g., short name or 'unused' prefix).
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_generic_parameterless_depends.py
+ISSUE: Dead / Unused function `B` (status: unused)
+RISK: Low
+WHY:
+  - The function `B` is not referenced or called within `github_repos\fastapi\tests\test_generic_parameterless_depends.py` (labeled unused). The function name and body suggest this may be a placeholder or debug helper (e.g., short name or 'unused' prefix).
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_inherited_custom_class.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_inherited_custom_class.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_jsonable_encoder.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_jsonable_encoder.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_jsonable_encoder.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_jsonable_encoder.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_jsonable_encoder.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_jsonable_encoder.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_jsonable_encoder.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_jsonable_encoder.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_jsonable_encoder.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_jsonable_encoder.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_jsonable_encoder.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_jsonable_encoder.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_read_with_orm_mode.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_read_with_orm_mode.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_read_with_orm_mode.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_read_with_orm_mode.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_response_by_alias.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_response_by_alias.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_response_model_invalid.py
+ISSUE: Dead / Unused function `NonPydanticModel` (status: unused)
+RISK: Low
+WHY:
+  - The function `NonPydanticModel` is not referenced or called within `github_repos\fastapi\tests\test_response_model_invalid.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_schema_extra_examples.py
+ISSUE: Dead / Unused function `Config` (status: unused)
+RISK: Low
+WHY:
+  - The function `Config` is not referenced or called within `github_repos\fastapi\tests\test_schema_extra_examples.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\fastapi\tests\test_validate_response_dataclass.py
+ISSUE: Dead / Unused function `Item` (status: unused)
+RISK: Low
+WHY:
+  - The function `Item` is not referenced or called within `github_repos\fastapi\tests\test_validate_response_dataclass.py` (labeled unused). The function name and body suggest this may be a placeholder or debug helper (e.g., short name or 'unused' prefix).
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\examples\tutorial\tests\test_db.py
+ISSUE: Dead / Unused function `Recorder` (status: unused)
+RISK: Low
+WHY:
+  - The function `Recorder` is not referenced or called within `github_repos\flask\examples\tutorial\tests\test_db.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\src\flask\ctx.py
+ISSUE: Dead / Unused function `_AppCtxGlobals` (status: unused)
+RISK: Low
+WHY:
+  - The function `_AppCtxGlobals` is not referenced or called within `github_repos\flask\src\flask\ctx.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\src\flask\ctx.py
+ISSUE: Dead / Unused function `AppContext` (status: unused)
+RISK: Low
+WHY:
+  - The function `AppContext` is not referenced or called within `github_repos\flask\src\flask\ctx.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\src\flask\sessions.py
+ISSUE: Dead / Unused function `SessionInterface` (status: unused)
+RISK: Low
+WHY:
+  - The function `SessionInterface` is not referenced or called within `github_repos\flask\src\flask\sessions.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\src\flask\views.py
+ISSUE: Dead / Unused function `View` (status: unused)
+RISK: Low
+WHY:
+  - The function `View` is not referenced or called within `github_repos\flask\src\flask\views.py` (labeled unused). The function name and body suggest this may be a placeholder or debug helper (e.g., short name or 'unused' prefix).
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\src\flask\json\provider.py
+ISSUE: Dead / Unused function `JSONProvider` (status: unused)
+RISK: Low
+WHY:
+  - The function `JSONProvider` is not referenced or called within `github_repos\flask\src\flask\json\provider.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\src\flask\json\tag.py
+ISSUE: Dead / Unused function `JSONTag` (status: unused)
+RISK: Low
+WHY:
+  - The function `JSONTag` is not referenced or called within `github_repos\flask\src\flask\json\tag.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\src\flask\json\tag.py
+ISSUE: Dead / Unused function `TaggedJSONSerializer` (status: unused)
+RISK: Low
+WHY:
+  - The function `TaggedJSONSerializer` is not referenced or called within `github_repos\flask\src\flask\json\tag.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\src\flask\sansio\scaffold.py
+ISSUE: Dead / Unused function `Scaffold` (status: unused)
+RISK: Low
+WHY:
+  - The function `Scaffold` is not referenced or called within `github_repos\flask\src\flask\sansio\scaffold.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_appctx.py
+ISSUE: Dead / Unused function `CustomRequestGlobals` (status: unused)
+RISK: Low
+WHY:
+  - The function `CustomRequestGlobals` is not referenced or called within `github_repos\flask\tests\test_appctx.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `TestRoutes` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestRoutes` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_cli.py
+ISSUE: Dead / Unused function `Module` (status: unused)
+RISK: Low
+WHY:
+  - The function `Module` is not referenced or called within `github_repos\flask\tests\test_cli.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_config.py
+ISSUE: Dead / Unused function `Base` (status: unused)
+RISK: Low
+WHY:
+  - The function `Base` is not referenced or called within `github_repos\flask\tests\test_config.py` (labeled unused). The function name and body suggest this may be a placeholder or debug helper (e.g., short name or 'unused' prefix).
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_helpers.py
+ISSUE: Dead / Unused function `PyBytesIO` (status: unused)
+RISK: Low
+WHY:
+  - The function `PyBytesIO` is not referenced or called within `github_repos\flask\tests\test_helpers.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_helpers.py
+ISSUE: Dead / Unused function `TestSendfile` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestSendfile` is not referenced or called within `github_repos\flask\tests\test_helpers.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_helpers.py
+ISSUE: Dead / Unused function `TestUrlFor` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestUrlFor` is not referenced or called within `github_repos\flask\tests\test_helpers.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_helpers.py
+ISSUE: Dead / Unused function `TestNoImports` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestNoImports` is not referenced or called within `github_repos\flask\tests\test_helpers.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_helpers.py
+ISSUE: Dead / Unused function `TestStreaming` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestStreaming` is not referenced or called within `github_repos\flask\tests\test_helpers.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_helpers.py
+ISSUE: Dead / Unused function `TestHelpers` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestHelpers` is not referenced or called within `github_repos\flask\tests\test_helpers.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_reqctx.py
+ISSUE: Dead / Unused function `TestGreenletContextCopying` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestGreenletContextCopying` is not referenced or called within `github_repos\flask\tests\test_reqctx.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_testing.py
+ISSUE: Dead / Unused function `NS` (status: unused)
+RISK: Low
+WHY:
+  - The function `NS` is not referenced or called within `github_repos\flask\tests\test_testing.py` (labeled unused). The function name and body suggest this may be a placeholder or debug helper (e.g., short name or 'unused' prefix).
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\flask\tests\test_user_error_handler.py
+ISSUE: Dead / Unused function `TestGenericHandlers` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestGenericHandlers` is not referenced or called within `github_repos\flask\tests\test_user_error_handler.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\src\requests\adapters.py
+ISSUE: Dead / Unused function `BaseAdapter` (status: unused)
+RISK: Low
+WHY:
+  - The function `BaseAdapter` is not referenced or called within `github_repos\requests\src\requests\adapters.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\src\requests\auth.py
+ISSUE: Dead / Unused function `AuthBase` (status: unused)
+RISK: Low
+WHY:
+  - The function `AuthBase` is not referenced or called within `github_repos\requests\src\requests\auth.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\src\requests\models.py
+ISSUE: Dead / Unused function `RequestEncodingMixin` (status: unused)
+RISK: Low
+WHY:
+  - The function `RequestEncodingMixin` is not referenced or called within `github_repos\requests\src\requests\models.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\src\requests\models.py
+ISSUE: Dead / Unused function `RequestHooksMixin` (status: unused)
+RISK: Low
+WHY:
+  - The function `RequestHooksMixin` is not referenced or called within `github_repos\requests\src\requests\models.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\src\requests\models.py
+ISSUE: Dead / Unused function `Response` (status: unused)
+RISK: Low
+WHY:
+  - The function `Response` is not referenced or called within `github_repos\requests\src\requests\models.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\src\requests\sessions.py
+ISSUE: Dead / Unused function `SessionRedirectMixin` (status: unused)
+RISK: Low
+WHY:
+  - The function `SessionRedirectMixin` is not referenced or called within `github_repos\requests\src\requests\sessions.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_requests.py
+ISSUE: Dead / Unused function `TestRequests` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestRequests` is not referenced or called within `github_repos\requests\tests\test_requests.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_requests.py
+ISSUE: Dead / Unused function `TestCaseInsensitiveDict` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestCaseInsensitiveDict` is not referenced or called within `github_repos\requests\tests\test_requests.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_requests.py
+ISSUE: Dead / Unused function `TestMorselToCookieExpires` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestMorselToCookieExpires` is not referenced or called within `github_repos\requests\tests\test_requests.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_requests.py
+ISSUE: Dead / Unused function `TestMorselToCookieMaxAge` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestMorselToCookieMaxAge` is not referenced or called within `github_repos\requests\tests\test_requests.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_requests.py
+ISSUE: Dead / Unused function `TestTimeout` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestTimeout` is not referenced or called within `github_repos\requests\tests\test_requests.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_requests.py
+ISSUE: Dead / Unused function `TestPreparingURLs` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestPreparingURLs` is not referenced or called within `github_repos\requests\tests\test_requests.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_structures.py
+ISSUE: Dead / Unused function `TestCaseInsensitiveDict` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestCaseInsensitiveDict` is not referenced or called within `github_repos\requests\tests\test_structures.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_structures.py
+ISSUE: Dead / Unused function `TestLookupDict` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestLookupDict` is not referenced or called within `github_repos\requests\tests\test_structures.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_testserver.py
+ISSUE: Dead / Unused function `TestTestServer` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestTestServer` is not referenced or called within `github_repos\requests\tests\test_testserver.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestSuperLen` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestSuperLen` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestGetNetrcAuth` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestGetNetrcAuth` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestToKeyValList` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestToKeyValList` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestUnquoteHeaderValue` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestUnquoteHeaderValue` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestGetEnvironProxies` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestGetEnvironProxies` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestIsIPv4Address` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestIsIPv4Address` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestIsValidCIDR` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestIsValidCIDR` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestAddressInNetwork` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestAddressInNetwork` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestGuessFilename` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestGuessFilename` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestExtractZippedPaths` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestExtractZippedPaths` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestContentEncodingDetection` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestContentEncodingDetection` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.
+
+FILE: github_repos\requests\tests\test_utils.py
+ISSUE: Dead / Unused function `TestGuessJSONUTF` (status: unused)
+RISK: Low
+WHY:
+  - The function `TestGuessJSONUTF` is not referenced or called within `github_repos\requests\tests\test_utils.py` (labeled unused). It may still be unused because it lacks references, docstrings, or it only contains trivial code like `pass` or simple prints.
+SUGGESTIONS:
+  - Remove or archive this function if genuinely unused, or add clear docstrings and tests to justify keeping it.

@@ -1,0 +1,315 @@
+{
+  "analysis_type": "taint",
+  "sources": [
+    {
+      "name": "flask_request_args",
+      "description": "Flask GET parameters",
+      "patterns": [
+        "request\\.args",
+        "request\\.args\\.get",
+        "request\\.args\\[.*\\]"
+      ]
+    },
+    {
+      "name": "flask_request_form",
+      "description": "Flask POST form",
+      "patterns": [
+        "request\\.form",
+        "request\\.form\\.get",
+        "request\\.form\\[.*\\]"
+      ]
+    },
+    {
+      "name": "flask_request_json",
+      "description": "Flask JSON",
+      "patterns": [
+        "request\\.json",
+        "request\\.get_json"
+      ]
+    },
+    {
+      "name": "flask_request_cookies",
+      "description": "Flask cookies",
+      "patterns": [
+        "request\\.cookies"
+      ]
+    },
+    {
+      "name": "flask_request_files",
+      "description": "Flask files",
+      "patterns": [
+        "request\\.files"
+      ]
+    },
+    {
+      "name": "django_request_get",
+      "description": "Django GET parameters",
+      "patterns": [
+        "request\\.GET",
+        "request\\.GET\\.get",
+        "request\\.GET\\[.*\\]"
+      ]
+    },
+    {
+      "name": "django_request_post",
+      "description": "Django POST data",
+      "patterns": [
+        "request\\.POST",
+        "request\\.POST\\.get",
+        "request\\.POST\\[.*\\]"
+      ]
+    },
+    {
+      "name": "django_request_body",
+      "description": "Django request body",
+      "patterns": [
+        "request\\.body",
+        "request\\.data"
+      ]
+    },
+    {
+      "name": "django_request_files",
+      "description": "Django uploaded files",
+      "patterns": [
+        "request\\.FILES"
+      ]
+    },
+    {
+      "name": "django_request_meta",
+      "description": "Django request metadata",
+      "patterns": [
+        "request\\.META"
+      ]
+    },
+    {
+      "name": "builtin_input",
+      "description": "Python input",
+      "patterns": [
+        "input\\(",
+        "raw_input\\("
+      ]
+    },
+    {
+      "name": "env_variables",
+      "description": "Environment vars",
+      "patterns": [
+        "os\\.environ",
+        "os\\.getenv"
+      ]
+    },
+    {
+      "name": "command_line_args",
+      "description": "CLI args",
+      "patterns": [
+        "sys\\.argv",
+        "argparse"
+      ]
+    },
+    {
+      "name": "file_read",
+      "description": "File reading",
+      "patterns": [
+        "\\.read\\(",
+        "open\\("
+      ]
+    },
+    {
+      "name": "network_response",
+      "description": "Network data",
+      "patterns": [
+        "\\.text",
+        "\\.content",
+        "\\.json\\(\\)"
+      ]
+    }
+  ],
+  "sinks": [
+    {
+      "name": "flask_render",
+      "description": "Flask rendering",
+      "patterns": [
+        "render_template",
+        "render_template_string"
+      ]
+    },
+    {
+      "name": "flask_response",
+      "description": "Flask response",
+      "patterns": [
+        "make_response\\(",
+        "Response\\("
+      ]
+    },
+    {
+      "name": "django_http_response",
+      "description": "Django HTTP response",
+      "patterns": [
+        "HttpResponse\\(",
+        "JsonResponse\\(",
+        "StreamingHttpResponse\\("
+      ]
+    },
+    {
+      "name": "django_render",
+      "description": "Django rendering",
+      "patterns": [
+        "render\\(",
+        "render_to_string\\(",
+        "render_to_response\\("
+      ]
+    },
+    {
+      "name": "django_mark_safe",
+      "description": "Django mark_safe (XSS risk)",
+      "patterns": [
+        "mark_safe\\("
+      ]
+    },
+    {
+      "name": "django_queryset_raw",
+      "description": "Django raw SQL",
+      "patterns": [
+        "\\.raw\\(",
+        "\\.extra\\("
+      ]
+    },
+    {
+      "name": "django_execute_sql",
+      "description": "Django cursor execute",
+      "patterns": [
+        "cursor\\.execute\\(",
+        "connection\\.cursor\\("
+      ]
+    },
+    {
+      "name": "sqlalchemy_text",
+      "description": "SQLAlchemy raw SQL",
+      "patterns": [
+        "text\\(",
+        "TextClause\\("
+      ]
+    },
+    {
+      "name": "sqlalchemy_execute",
+      "description": "SQLAlchemy execute",
+      "patterns": [
+        "\\.execute\\(",
+        "\\.exec_driver_sql\\("
+      ]
+    },
+    {
+      "name": "sqlalchemy_filter",
+      "description": "SQLAlchemy filters",
+      "patterns": [
+        "\\.filter\\(",
+        "\\.where\\(",
+        "\\.group_by\\(",
+        "\\.order_by\\("
+      ]
+    },
+    {
+      "name": "http_request",
+      "description": "HTTP requests",
+      "patterns": [
+        "requests\\.get\\(",
+        "requests\\.post\\(",
+        "requests\\.put\\(",
+        "urllib\\.request\\.urlopen\\("
+      ]
+    },
+    {
+      "name": "os_command",
+      "description": "OS commands",
+      "patterns": [
+        "os\\.system\\(",
+        "os\\.popen\\("
+      ]
+    },
+    {
+      "name": "subprocess_execution",
+      "description": "Subprocess",
+      "patterns": [
+        "subprocess\\.call\\(",
+        "subprocess\\.run\\(",
+        "subprocess\\.Popen\\("
+      ]
+    },
+    {
+      "name": "eval_exec",
+      "description": "Code execution",
+      "patterns": [
+        "eval\\(",
+        "exec\\(",
+        "compile\\("
+      ]
+    },
+    {
+      "name": "file_write",
+      "description": "File write",
+      "patterns": [
+        "open\\(.*['\"]w",
+        "\\.write\\("
+      ]
+    },
+    {
+      "name": "print_output",
+      "description": "Print",
+      "patterns": [
+        "print\\("
+      ]
+    },
+    {
+      "name": "logging_output",
+      "description": "Logging",
+      "patterns": [
+        "logging\\.",
+        "logger\\."
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "command_injection",
+      "pattern": "os\\.system|subprocess\\.|exec\\(|eval\\(",
+      "severity": "critical",
+      "description": "Command injection"
+    },
+    {
+      "name": "sql_injection",
+      "pattern": "execute\\(.*[+%].*\\)|text\\(.*[+%].*\\)|raw\\(.*[+%].*\\)",
+      "severity": "critical",
+      "description": "SQL injection"
+    },
+    {
+      "name": "django_sql_injection",
+      "pattern": "\\.raw\\(.*[+%].*\\)|\\.extra\\(.*[+%].*\\)",
+      "severity": "critical",
+      "description": "Django SQL injection"
+    },
+    {
+      "name": "ssrf",
+      "pattern": "requests\\.(get|post|put)|urlopen\\(",
+      "severity": "high",
+      "description": "SSRF risk"
+    },
+    {
+      "name": "xss",
+      "pattern": "render_template_string.*request\\.|HttpResponse\\(.*request\\.|mark_safe\\(.*request\\.",
+      "severity": "high",
+      "description": "XSS"
+    },
+    {
+      "name": "django_xss",
+      "pattern": "mark_safe\\(.*request\\.|HttpResponse\\(.*request\\.GET|HttpResponse\\(.*request\\.POST",
+      "severity": "high",
+      "description": "Django XSS"
+    },
+    {
+      "name": "sensitive_data",
+      "pattern": "print.*password|logging.*password|print.*secret",
+      "severity": "high",
+      "description": "Sensitive data exposure"
+    }
+  ],
+  "output_format": "text"
+}
