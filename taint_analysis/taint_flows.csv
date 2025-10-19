@@ -1,0 +1,7 @@
+file,line,source,sink,snippet
+github_repos\django\manage.py,21,os.environ,exec,"os.environ.setdefault(""DJANGO_SETTINGS_MODULE"", ""taskManager.settings"")  -->  from django.core.management import execute_from_command_line"
+github_repos\flask\examples\tutorial\flaskr\auth.py,88,request.form,exec,"username = request.form[""username""]  -->  user = db.execute("
+github_repos\flask\examples\tutorial\flaskr\auth.py,89,request.form,exec,"password = request.form[""password""]  -->  user = db.execute("
+github_repos\flask\src\flask\cli.py,1020,os.environ,open(,"startup = os.environ.get(""PYTHONSTARTUP"")  -->  with open(startup) as f:"
+github_repos\pygoat\manage.py,8,os.environ,exec,"os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pygoat.settings')  -->  from django.core.management import execute_from_command_line"
+github_repos\pygoat\dockerized_labs\sensitive_data_exposure\manage.py,9,os.environ,exec,"os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'sensitive_data_lab.settings')  -->  from django.core.management import execute_from_command_line"
